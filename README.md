@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/amanuel-worku-844903213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amanuel-worku-844903213" height="30" width="40" /></a>
 <a href="https://fb.com/amanuel.worku.733" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amanuel.worku.733" height="30" width="40" /></a>
 <a href="https://instagram.com/amanwtsegaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amanwtsegaw" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/amanuelworku9170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amanuelworku9170" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC0qjgo-Atja9mu8tYyGFPvw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amanuelworku9170" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align="left">Languages and Tools:</h3>
