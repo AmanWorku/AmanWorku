@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **JavaScript, React, React Js, Ruby, Ruby on Rails, Data Analysis and Algorithms at Microverse**
+- 🌱 I’m currently learning **JavaScript, React, React Js, React Native, Ruby, Ruby on Rails, Data Analysis and Algorithms at Microverse**
 
 - 👯 I’m looking to collaborate on **a front-end webpage.**
 
