@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **a front-end webpage.**
 
-- 💬 Ask me about **HTML, CSS, ES6, React, Redux, React Native, Ruby**
+- 💬 Ask me about **HTML, CSS, ES6, React, Redux, React Native, Ruby, Ruby on Rails**
 
 - 📫 How to reach me **amexworku2014@gmail.com**
 
