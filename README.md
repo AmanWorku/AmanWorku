@@ -28,6 +28,7 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanworku&show_icons=true&locale=en&layout=compact" alt="amanworku" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanworku&show_icons=true&locale=en" alt="amanworku" /></p>
-<hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanworku&" alt="amanworku" /></p>
+<div>
+  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmanWorku&show_icons=true&theme=nightowl&count_private=true"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanWorku&show_icons=true&theme=nightowl&layout=compact&count_prrivate=true"/>
+</div>
