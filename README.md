@@ -30,7 +30,7 @@
   </a> </p>
 <hr>
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanworku&show_icons=true&theme=nightowl&count_private=true" alt="amanworku" /></p>
-  <img height="180" width="420" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AmanWorku&show_icons=true&theme=nightowl&count_private=true"/>
-  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanWorku&show_icons=true&theme=nightowl&layout=compact&count_prrivate=true"/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amanworku&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="amanworku" /></p>
+  <img height="180" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=amanworku&theme=merko&hide_border=false"/>
+  <img height="180" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanworku&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
