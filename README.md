@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, React Js, React Native, Ruby, Ruby on Rails, Data Analysis and Algorithms at Microverse**
 
-- 👯 I’m looking to collaborate on **a front-end webpage.**
+- 👯 I’m looking to collaborate on **a full-stack webpage.**
 
 - 💬 Ask me about **HTML, CSS, ES6, React, Redux, React Native, Ruby, Ruby on Rails**
 
